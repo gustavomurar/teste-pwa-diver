@@ -1,6 +1,6 @@
 const CACHE_NAME = 'divertidamente-cache-v1';
 const urlsToCache = [
-  '/home2.html',
+  '/index.html',
   '/carrinho.html',
   '/favoritos.html',
   '/style.css',

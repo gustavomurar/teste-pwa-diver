@@ -1,7 +1,7 @@
 {
   "name": "Divertidamente Loja",
   "short_name": "Divertidamente",
-  "start_url": "home2.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#e91e63",
